@@ -1,0 +1,26 @@
+{
+  "name": "keygen",
+  "version": "0.1.0",
+  "description": "generate short url-friendly codes",
+  "main": "src/keyGen.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micarlise/keygen.git"
+  },
+  "author": "M Carlise <micarlise@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micarlise/keygen/issues"
+  },
+  "homepage": "https://github.com/micarlise/keygen#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^8.3.0"
+  }
+}
